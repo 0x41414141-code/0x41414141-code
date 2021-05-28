@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @0x41414141-code
-- 👀 I’m interested in Reverse Engineering, Binary exploitation, web hacking, pentesting, bug bounty
+- 👋 Hi, I’m @0x41414141
+- 👀 I’m interested in Reverse Engineering, Binary exploitation, C, Assembly and everything on low level
 - 🌱 I’m currently learning Assembly and radare2
 - 📫 How to reach me Discord:0x41414141#5170
 
