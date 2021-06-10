@@ -16,4 +16,3 @@
 
 # Reach me 
  - Discord: 0x41414141#5170
- - Instagram: ogischaa
