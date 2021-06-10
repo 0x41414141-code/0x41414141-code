@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @0x41414141
-- 👀 I’m interested in Reverse Engineering, Binary exploitation, C, Assembly and everything on low level
-- 🌱 I’m currently learning Assembly and radare2
-- 📫 How to reach me Discord:0x41414141#5170
+# Skills:
+- [x] C
+- [x] Python
+- [x] JavaScript
+- [x] Shell scripting
+- [x] Reverse Engineering
+- [ ] Binary Exploitation(still learning)
+- [ ] Assembly x86_64(still learning)
+# System:
+* OS: Ubuntu
+* DE: xfce
+* Terminal: Terminator
+* Shell: fish
+# HTB
+ <img src="http://www.hackthebox.eu/badge/image/415826" alt="Hack The Box"> 
 
-<!---
-0x41414141-code/0x41414141-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Reach me 
+ - Discord: 0x41414141#5170
+ - Instagram: ogischaa
