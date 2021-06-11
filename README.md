@@ -1,6 +1,7 @@
 # Skills:
 - [x] C
 - [x] Python
+- [x] C++
 - [x] JavaScript
 - [x] Shell scripting
 - [x] Reverse Engineering
