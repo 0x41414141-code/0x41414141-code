@@ -21,8 +21,7 @@
 
 
 ### Statistics
-
-![0x41414141-code](https://github-readme-stats.vercel.app/api?username=0x41414141-code&theme=default&show_icons=true)
+[![0x41414141-code](https://github-readme-stats.vercel.app/api?username=0x41414141-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/0x41414141-code/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41414141-code&layout=compact)
  
