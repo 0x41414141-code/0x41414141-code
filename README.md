@@ -6,7 +6,7 @@
 - [x] Shell scripting
 - [x] Reverse Engineering
 - [ ] Binary Exploitation(still learning)
-- [ ] Assembly x86_64(still learning)
+- [ ] Assembly x64(still learning)
 # System
 * OS: Ubuntu
 * DE: xfce
