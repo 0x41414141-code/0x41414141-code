@@ -26,4 +26,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41414141-code&layout=compact)
  
 ## Reach me 📫
- - Discord: 0x41414141#4334
+ - Discord: 0x420x6f0x67#4334
