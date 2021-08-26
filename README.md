@@ -22,7 +22,7 @@
 
 
 # System
-* OS: Ubuntu
+* OS: Ubuntu 21.04
 * DE: xfce
 * Terminal: Terminator
 * Shell: fish
