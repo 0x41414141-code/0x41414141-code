@@ -33,8 +33,7 @@
 [ ![hackthebox](http://www.hackthebox.eu/badge/image/415826)](https://app.hackthebox.eu/profile/415826)
 
 ### Tryhackme
-[ ![tryhackme](https://tryhackme.com/badge/253805)](https://tryhackme.com/p/AlphaZ3r0)
-
+[ ![tryhackme](./AlphaZ3r0.png) ](https://tryhackme.com/p/AlphaZ3r0)
 
 ### Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x41414141-code&show_icons=true&locale=en&layout=compact" alt="0x41414141" /></p>
