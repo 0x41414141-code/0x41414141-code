@@ -33,7 +33,7 @@
 [ ![hackthebox](http://www.hackthebox.eu/badge/image/415826)](https://app.hackthebox.eu/profile/415826)
 
 ### Tryhackme
-[ ![tryhackme](./AlphaZ3r0.png) ](https://tryhackme.com/p/AlphaZ3r0)
+[ ![tryhackme](src="https://tryhackme.com/badge/253805)](https://tryhackme.com/p/AlphaZ3r0)
 
 
 ### Statistics
