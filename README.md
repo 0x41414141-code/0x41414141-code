@@ -22,10 +22,10 @@
 
 
 # System
-* OS: Ubuntu 21.04
-* DE: xfce
-* Terminal: Terminator
-* Shell: fish
+* OS: Arch
+* DE: i3
+* Terminal: alacritty
+* Shell: zsh
 
 ## Profiles
 
